@@ -1,5 +1,5 @@
 # Site settings
-title: Klise Theme
+title: Jeisson F. Sanchez
 description: >-
   Como autodidacta me gusta enseñar las cosas nuevas que aprendo. Escribo en Dev.to y Medium.com uso estas plataformas 
   porque hay lectores que quieren aprender cosas nuevas y esta es una gran oportunidad de compartir.
@@ -13,8 +13,8 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Jeisson F. Sanchez
   bio: >-
-    Como autodidacta me gusta enseñar las cosas nuevas que aprendo, 
-    hay lectores que quieren aprender cosas nuevas y esta es una gran oportunidad de compartir.
+    Gestión, Mercadeo y Desarrollo en Python 🐍.
+    Me gusta aprender, enseñar y orientar proyectos de vida.
   username: username
   email: jfsan@yahoo.es
   avatar: /assets/img/avatar.jpg
