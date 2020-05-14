@@ -12,7 +12,7 @@ Mi principal objetivo en fortalecer el mercadeo en las empresas, mejorar la prod
 De profesión soy Administrador de Empresas y tengo un posgrado en Proyectos.
 Me gusta la naturaleza, ayudar a las personas a desarrollar su proyecto de vida. vivo en Colombia.
 
-Para mas Información, ver mi Currículo, Perfil de LinkedIn, o Twitter (@sajeisson).
+Twitter (@sajeisson).
 
 
 ##### Para mas Información ✨
