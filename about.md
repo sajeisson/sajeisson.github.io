@@ -6,13 +6,16 @@ excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+El Marketing hace parte de mi gestión profesional, me gusta enseñar, leer libros y escribir, aprendí desarrollo web y estadística en aplicación con el lenguaje de programación Python 🐍.
+Mi principal objetivo en fortalecer el mercadeo en las empresas, mejorar la productividad y solucionar los problemas de marca, integro la tecnología a los procesos para mejorar la experiencia de los clientes.
 
-If you have a question about him or else, just send a letter to him.
+De profesión soy Administrador de Empresas y tengo un posgrado en Proyectos.
+Me gusta la naturaleza, ayudar a las personas a desarrollar su proyecto de vida. vivo en Colombia.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+Para mas Información, ver mi Currículo, Perfil de LinkedIn, o Twitter (@sajeisson).
 
-##### may u needs ✨
+
+##### Para mas Información ✨
 
 - {{ site.author.email }}
 - github.com/{{ site.author.username }}
