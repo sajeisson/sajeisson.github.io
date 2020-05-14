@@ -6,6 +6,8 @@ excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in
 comments: false
 ---
 
+<img src="\assets\img\perfil.png" style="zoom: 40%;" />
+
 El Marketing hace parte de mi gestión profesional, me gusta enseñar, leer libros y escribir, aprendí desarrollo web y estadística en aplicación con el lenguaje de programación Python 🐍.
 Mi principal objetivo en fortalecer el mercadeo en las empresas, mejorar la productividad y solucionar los problemas de marca, integro la tecnología a los procesos para mejorar la experiencia de los clientes.
 
