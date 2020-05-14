@@ -16,11 +16,11 @@ author:
     The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
     meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
   username: username
-  email: your-email@email.com
+  email: jfsan@yahoo.es
   avatar: /assets/img/avatar.jpg
 
 # Url settings
-url: "https://klise.now.sh"
+url: "https://sajeisson.now.sh"
 baseurl:
 permalink: /:title/
 google_analytics:
